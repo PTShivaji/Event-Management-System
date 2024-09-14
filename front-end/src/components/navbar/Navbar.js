@@ -17,11 +17,11 @@ class Navbar extends Component {
         
         return (
             <div className="">
-                <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark ">
+                <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light ">
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
-                    <a className="navbar-brand" href="home"><img src={require('../../img/logo.png')} className="d-inline-block align-top mr-2" width="60" height="35" alt="asd" />
+                    <a className="navbar-brand" href="home"><img src={require('../../img/th.jpg')} className="d-inline-block align-top mr-2" width="60" height="35" alt="asd" />
                         </a>
 
                     <div className="collapse navbar-collapse  mx-auto" id="navbarTogglerDemo03">

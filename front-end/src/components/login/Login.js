@@ -86,7 +86,7 @@ class Login extends Component {
                 <div className="row">
                     <form className="mt-5 col-lg-6 mx-auto" onSubmit={this.addlogin}>
                     <div class="form-group row">
-                            <p>New to Eventzz? Quickly <a href="register"><strong>signup</strong></a> for an account now.</p>
+                            <p>New to Event Hub? Quickly <a href="register"><strong>signup</strong></a> for an account now.</p>
                             
                         </div>
                         

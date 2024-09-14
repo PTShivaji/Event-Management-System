@@ -56,10 +56,10 @@ class Home extends Component {
                 <div id="carouselExampleSlidesOnly" className="carousel " data-ride="carousel">
                     <div className="carousel-inner">
                         <div className="carousel-item active">
-                            <img className="d-block w-100" src={require('../../img/banner.jpg')} alt="First slide" />
+                            <img className="d-block w-100" src={require('../../img/party-crowd-banner-design-vector.jpg')} alt="First slide" />
                             <div className="carousel-caption d-none d-md-block align-center">
-                            <h1 className="drop-shadow">Eventzz</h1>
-                                <h3 className="drop-shadow  ">Your Trusted Event Manager..</h3>
+                            <h1 className="drop-shadow">Event Hub</h1>
+                                <h3 className="drop-shadow  ">Experience seamless event management with EventHub—where innovation meets unforgettable moments.</h3>
                                 
                             </div>
 
